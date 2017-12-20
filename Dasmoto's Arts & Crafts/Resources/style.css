@@ -1,0 +1,69 @@
+.home{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+  opacity: 1;
+  height: 200px;
+  padding-top: 100px;
+}
+
+.font{
+  font-style: italic;
+  font-size: 100px;
+}
+
+.strongbrushes{
+  color: blue;
+}
+
+
+img{
+  display: block;
+  margin: auto;
+  width: 300px;
+  font: arial;
+}
+
+p{
+  font-size: 20px;
+}
+
+.backgroundframes{
+  background-color: blue;
+  width: 165px;
+}
+
+h3{
+  font-size: 30px;
+}
+
+.strongframes{
+  color: blue;
+}
+
+h2{
+  color: white;
+  width: 175px;
+  height: 60px;
+  font-size: 50px;
+}
+
+.backgroundbrushes{
+  background-color: red;
+}
+
+.backgroundpaint{
+  background-color: green;
+  width:120px;
+}
+
+.strongpaint{
+  color: blue;
+}
+
+a{
+  font-size: 20px;
+}
+
+ul{
+  list-style-type: none;
+}
